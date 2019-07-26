@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/activemq-all/activemq-all.iml" filepath="$PROJECT_DIR$/activemq-all/activemq-all.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-amqp/activemq-amqp.iml" filepath="$PROJECT_DIR$/activemq-amqp/activemq-amqp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-blueprint/activemq-blueprint.iml" filepath="$PROJECT_DIR$/activemq-blueprint/activemq-blueprint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-broker/activemq-broker.iml" filepath="$PROJECT_DIR$/activemq-broker/activemq-broker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-camel/activemq-camel.iml" filepath="$PROJECT_DIR$/activemq-camel/activemq-camel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-cf/activemq-cf.iml" filepath="$PROJECT_DIR$/activemq-cf/activemq-cf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-client/activemq-client.iml" filepath="$PROJECT_DIR$/activemq-client/activemq-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-console/activemq-console.iml" filepath="$PROJECT_DIR$/activemq-console/activemq-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-http/activemq-http.iml" filepath="$PROJECT_DIR$/activemq-http/activemq-http.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-itests-spring31/activemq-itests-spring31.iml" filepath="$PROJECT_DIR$/activemq-itests-spring31/activemq-itests-spring31.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-jaas/activemq-jaas.iml" filepath="$PROJECT_DIR$/activemq-jaas/activemq-jaas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-jdbc-store/activemq-jdbc-store.iml" filepath="$PROJECT_DIR$/activemq-jdbc-store/activemq-jdbc-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-jms-pool/activemq-jms-pool.iml" filepath="$PROJECT_DIR$/activemq-jms-pool/activemq-jms-pool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-tooling/activemq-junit/activemq-junit.iml" filepath="$PROJECT_DIR$/activemq-tooling/activemq-junit/activemq-junit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-kahadb-store/activemq-kahadb-store.iml" filepath="$PROJECT_DIR$/activemq-kahadb-store/activemq-kahadb-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-karaf/activemq-karaf.iml" filepath="$PROJECT_DIR$/activemq-karaf/activemq-karaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-karaf-itest/activemq-karaf-itest.iml" filepath="$PROJECT_DIR$/activemq-karaf-itest/activemq-karaf-itest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-leveldb-store/activemq-leveldb-store.iml" filepath="$PROJECT_DIR$/activemq-leveldb-store/activemq-leveldb-store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-log4j-appender/activemq-log4j-appender.iml" filepath="$PROJECT_DIR$/activemq-log4j-appender/activemq-log4j-appender.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-tooling/activemq-maven-plugin/activemq-maven-plugin.iml" filepath="$PROJECT_DIR$/activemq-tooling/activemq-maven-plugin/activemq-maven-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-tooling/activemq-memtest-maven-plugin/activemq-memtest-maven-plugin.iml" filepath="$PROJECT_DIR$/activemq-tooling/activemq-memtest-maven-plugin/activemq-memtest-maven-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-mqtt/activemq-mqtt.iml" filepath="$PROJECT_DIR$/activemq-mqtt/activemq-mqtt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-openwire-generator/activemq-openwire-generator.iml" filepath="$PROJECT_DIR$/activemq-openwire-generator/activemq-openwire-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-openwire-legacy/activemq-openwire-legacy.iml" filepath="$PROJECT_DIR$/activemq-openwire-legacy/activemq-openwire-legacy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-osgi/activemq-osgi.iml" filepath="$PROJECT_DIR$/activemq-osgi/activemq-osgi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-parent.iml" filepath="$PROJECT_DIR$/activemq-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-partition/activemq-partition.iml" filepath="$PROJECT_DIR$/activemq-partition/activemq-partition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-tooling/activemq-perf-maven-plugin/activemq-perf-maven-plugin.iml" filepath="$PROJECT_DIR$/activemq-tooling/activemq-perf-maven-plugin/activemq-perf-maven-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-pool/activemq-pool.iml" filepath="$PROJECT_DIR$/activemq-pool/activemq-pool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-ra/activemq-ra.iml" filepath="$PROJECT_DIR$/activemq-ra/activemq-ra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-rar/activemq-rar.iml" filepath="$PROJECT_DIR$/activemq-rar/activemq-rar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-run/activemq-run.iml" filepath="$PROJECT_DIR$/activemq-run/activemq-run.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-runtime-config/activemq-runtime-config.iml" filepath="$PROJECT_DIR$/activemq-runtime-config/activemq-runtime-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-shiro/activemq-shiro.iml" filepath="$PROJECT_DIR$/activemq-shiro/activemq-shiro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-spring/activemq-spring.iml" filepath="$PROJECT_DIR$/activemq-spring/activemq-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-stomp/activemq-stomp.iml" filepath="$PROJECT_DIR$/activemq-stomp/activemq-stomp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-tooling/activemq-tooling.iml" filepath="$PROJECT_DIR$/activemq-tooling/activemq-tooling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-unit-tests/activemq-unit-tests.iml" filepath="$PROJECT_DIR$/activemq-unit-tests/activemq-unit-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-web/activemq-web.iml" filepath="$PROJECT_DIR$/activemq-web/activemq-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-web-console/activemq-web-console.iml" filepath="$PROJECT_DIR$/activemq-web-console/activemq-web-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-web-demo/activemq-web-demo.iml" filepath="$PROJECT_DIR$/activemq-web-demo/activemq-web-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/assembly/apache-activemq.iml" filepath="$PROJECT_DIR$/assembly/apache-activemq.iml" />
+    </modules>
+  </component>
+</project>

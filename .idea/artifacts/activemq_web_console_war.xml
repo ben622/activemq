@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="activemq-web-console:war">
+    <output-path>$PROJECT_DIR$/activemq-web-console/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>activemq-web-console</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="activemq-web-console-5.15.9.war">
+      <element id="artifact" artifact-name="activemq-web-console:war exploded" />
+    </root>
+  </artifact>
+</component>

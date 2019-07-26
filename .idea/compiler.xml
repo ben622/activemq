@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="activemq-all" />
+        <module name="activemq-amqp" />
+        <module name="activemq-blueprint" />
+        <module name="activemq-broker" />
+        <module name="activemq-camel" />
+        <module name="activemq-cf" />
+        <module name="activemq-client" />
+        <module name="activemq-console" />
+        <module name="activemq-http" />
+        <module name="activemq-itests-spring31" />
+        <module name="activemq-jaas" />
+        <module name="activemq-jdbc-store" />
+        <module name="activemq-jms-pool" />
+        <module name="activemq-junit" />
+        <module name="activemq-kahadb-store" />
+        <module name="activemq-karaf" />
+        <module name="activemq-karaf-itest" />
+        <module name="activemq-leveldb-store" />
+        <module name="activemq-log4j-appender" />
+        <module name="activemq-maven-plugin" />
+        <module name="activemq-memtest-maven-plugin" />
+        <module name="activemq-mqtt" />
+        <module name="activemq-openwire-generator" />
+        <module name="activemq-openwire-legacy" />
+        <module name="activemq-osgi" />
+        <module name="activemq-partition" />
+        <module name="activemq-perf-maven-plugin" />
+        <module name="activemq-pool" />
+        <module name="activemq-ra" />
+        <module name="activemq-rar" />
+        <module name="activemq-run" />
+        <module name="activemq-runtime-config" />
+        <module name="activemq-shiro" />
+        <module name="activemq-spring" />
+        <module name="activemq-stomp" />
+        <module name="activemq-unit-tests" />
+        <module name="activemq-web" />
+        <module name="activemq-web-console" />
+        <module name="activemq-web-demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="activemq-all" target="1.8" />
+      <module name="activemq-amqp" target="1.8" />
+      <module name="activemq-blueprint" target="1.8" />
+      <module name="activemq-broker" target="1.8" />
+      <module name="activemq-camel" target="1.8" />
+      <module name="activemq-cf" target="1.8" />
+      <module name="activemq-client" target="1.8" />
+      <module name="activemq-console" target="1.8" />
+      <module name="activemq-http" target="1.8" />
+      <module name="activemq-itests-spring31" target="1.8" />
+      <module name="activemq-jaas" target="1.8" />
+      <module name="activemq-jdbc-store" target="1.8" />
+      <module name="activemq-jms-pool" target="1.8" />
+      <module name="activemq-junit" target="1.8" />
+      <module name="activemq-kahadb-store" target="1.8" />
+      <module name="activemq-karaf" target="1.8" />
+      <module name="activemq-karaf-itest" target="1.8" />
+      <module name="activemq-leveldb-store" target="1.8" />
+      <module name="activemq-log4j-appender" target="1.8" />
+      <module name="activemq-maven-plugin" target="1.8" />
+      <module name="activemq-memtest-maven-plugin" target="1.8" />
+      <module name="activemq-mqtt" target="1.8" />
+      <module name="activemq-openwire-generator" target="1.8" />
+      <module name="activemq-openwire-legacy" target="1.8" />
+      <module name="activemq-osgi" target="1.8" />
+      <module name="activemq-parent" target="1.8" />
+      <module name="activemq-partition" target="1.8" />
+      <module name="activemq-perf-maven-plugin" target="1.8" />
+      <module name="activemq-pool" target="1.8" />
+      <module name="activemq-ra" target="1.8" />
+      <module name="activemq-rar" target="1.8" />
+      <module name="activemq-run" target="1.8" />
+      <module name="activemq-runtime-config" target="1.8" />
+      <module name="activemq-shiro" target="1.8" />
+      <module name="activemq-spring" target="1.8" />
+      <module name="activemq-stomp" target="1.8" />
+      <module name="activemq-tooling" target="1.8" />
+      <module name="activemq-unit-tests" target="1.8" />
+      <module name="activemq-web" target="1.8" />
+      <module name="activemq-web-console" target="1.8" />
+      <module name="activemq-web-demo" target="1.8" />
+      <module name="apache-activemq" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Osmorc" name="OSGi">
+      <configuration manifestGenerationMode="OsmorcControlled" manifestLocation="" jarfileLocation="activemq-blueprint-5.15.9.jar" outputPathType="CompilerOutputPath" bndFileLocation="" bundlorFileLocation="" bundleActivator="" bundleSymbolicName="org.apache.activemq.activemq-blueprint" bundleVersion="5.15.9" ignoreFilePattern="" useProjectDefaultManifestFileLocation="true" alwaysRebuildBundleJAR="false" doNotSynchronizeWithMaven="false">
+        <additionalProperties>
+          <property key="Bundle-Description" value="The ActiveMQ Message Broker and Client implementations" />
+          <property key="Bundle-Vendor" value="The Apache Software Foundation" />
+          <property key="Bundle-DocURL" value="https://www.apache.org/" />
+          <property key="Fragment-Host" value="org.apache.activemq.activemq-osgi" />
+          <property key="Bundle-Name" value="activemq-blueprint" />
+          <property key="Export-Package" value="org.apache.activemq**;version=5.15.9;-noimport:=true" />
+          <property key="Import-Package" value="org.apache.xbean*;version=&quot;[3.13,5)&quot;,org.apache.aries.blueprint.*;version=&quot;[1.0,2)&quot;,*" />
+          <property key="Private-Package" value="!*" />
+          <property key="Implementation-Title" value="Apache ActiveMQ" />
+          <property key="Implementation-Version" value="5.15.9" />
+          <property key="-versionpolicy-impl" value="[$(version;==;$(@)),$(version;=+;$(@)))" />
+          <property key="-versionpolicy-uses" value="[$(version;==;$(@)),$(version;+;$(@)))" />
+          <property key="-versionpolicy" value="[$(version;==;$(@)),$(version;+;$(@)))" />
+          <property key="-failok" value="${servicemix.osgi.failok}" />
+          <property key="Include-Resource" value="OSGI-INF/blueprint/activemq-blueprint.xml=$MODULE_DIR$/src/main/resources/OSGI-INF/blueprint/activemq-blueprint.xml" />
+        </additionalProperties>
+        <additionalJARContents />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.apache.aries.blueprint:org.apache.aries.blueprint:1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.xbean:xbean-blueprint:4.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-jexl:2.0" level="project" />
+    <orderEntry type="library" name="Maven: org.ops4j.pax.logging:pax-logging-api:1.5.0" level="project" />
+  </component>
+</module>

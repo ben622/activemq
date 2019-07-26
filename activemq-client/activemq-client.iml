@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Osmorc" name="OSGi">
+      <configuration manifestGenerationMode="OsmorcControlled" manifestLocation="" jarfileLocation="activemq-client-5.15.9.jar" outputPathType="CompilerOutputPath" bndFileLocation="" bundlorFileLocation="" bundleActivator="" bundleSymbolicName="org.apache.activemq.activemq-client" bundleVersion="5.15.9" ignoreFilePattern="" useProjectDefaultManifestFileLocation="true" alwaysRebuildBundleJAR="false" doNotSynchronizeWithMaven="false">
+        <additionalProperties>
+          <property key="Bundle-Description" value="The ActiveMQ Client implementation" />
+          <property key="Bundle-Vendor" value="The Apache Software Foundation" />
+          <property key="Bundle-DocURL" value="https://www.apache.org/" />
+          <property key="Bundle-Name" value="activemq-client" />
+          <property key="Export-Package" value="org.apache.activemq**;version=5.15.9;-noimport:=true" />
+          <property key="Import-Package" value="*" />
+          <property key="Private-Package" value="!*" />
+          <property key="Implementation-Title" value="Apache ActiveMQ" />
+          <property key="Implementation-Version" value="5.15.9" />
+          <property key="-versionpolicy-impl" value="[$(version;==;$(@)),$(version;=+;$(@)))" />
+          <property key="-versionpolicy-uses" value="[$(version;==;$(@)),$(version;+;$(@)))" />
+          <property key="-versionpolicy" value="[$(version;==;$(@)),$(version;+;$(@)))" />
+          <property key="-failok" value="${servicemix.osgi.failok}" />
+          <property key="Include-Resource" value="META-INF/services/org/apache/activemq/transport/discovery=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/transport/discovery,META-INF/services/org/apache/activemq/transport/discoveryagent/masterslave=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/transport/discoveryagent/masterslave,META-INF/services/org/apache/activemq/transport/discoveryagent/multicast=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/transport/discoveryagent/multicast,META-INF/services/org/apache/activemq/transport/discoveryagent/simple=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/transport/discoveryagent/simple,META-INF/services/org/apache/activemq/transport/discoveryagent/static=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/transport/discoveryagent/static,META-INF/services/org/apache/activemq/transport/discoveryagent/zeroconf=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/transport/discoveryagent/zeroconf,META-INF/services/org/apache/activemq/transport/failover=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/transport/failover,META-INF/services/org/apache/activemq/transport/fanout=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/transport/fanout,META-INF/services/org/apache/activemq/transport/mock=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/transport/mock,META-INF/services/org/apache/activemq/transport/multicast=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/transport/multicast,META-INF/services/org/apache/activemq/transport/nio=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/transport/nio,META-INF/services/org/apache/activemq/transport/nio+ssl=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/transport/nio+ssl,META-INF/services/org/apache/activemq/transport/ssl=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/transport/ssl,META-INF/services/org/apache/activemq/transport/tcp=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/transport/tcp,META-INF/services/org/apache/activemq/transport/udp=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/transport/udp,META-INF/services/org/apache/activemq/wireformat/default=$MODULE_DIR$/src/main/resources/META-INF/services/org/apache/activemq/wireformat/default,org/apache/activemq/util/demo.txt=$MODULE_DIR$/src/main/resources/org/apache/activemq/util/demo.txt,{org/apache/activemq/version.txt=$MODULE_DIR$/src/main/filtered-resources/org/apache/activemq/version.txt}" />
+        </additionalProperties>
+        <additionalJARContents />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/filtered-resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/target/generated-sources/javacc" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.25" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-jms_1.1_spec:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: org.fusesource.hawtbuf:hawtbuf:1.11" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec:1.0.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-net:commons-net:3.6" level="project" />
+    <orderEntry type="library" name="Maven: javax.jmdns:jmdns:3.4.1" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: junit:junit:4.12" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.hamcrest:hamcrest-core:1.3" level="project" />
+    <orderEntry type="library" scope="TEST" name="Maven: org.slf4j:slf4j-log4j12:1.7.25" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: log4j:log4j:1.2.17" level="project" />
+  </component>
+</module>

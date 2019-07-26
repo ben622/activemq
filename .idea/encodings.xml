@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-all" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-amqp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-blueprint" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-broker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-camel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-cf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-console" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-itests-spring31" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-jaas" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-jdbc-store" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-jms-pool" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-kahadb-store" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-karaf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-karaf-itest" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-leveldb-store" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-log4j-appender" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-mqtt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-openwire-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-openwire-legacy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-osgi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-partition" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-pool" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-ra" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-rar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-run" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-runtime-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-stomp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-tooling" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-tooling/activemq-junit" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-tooling/activemq-maven-plugin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-tooling/activemq-memtest-maven-plugin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-tooling/activemq-perf-maven-plugin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-unit-tests" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-web-console" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/activemq-web-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assembly" charset="UTF-8" />
+  </component>
+</project>
