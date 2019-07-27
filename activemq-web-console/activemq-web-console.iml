@@ -37,7 +37,6 @@
     <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec:1.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-jacc_1.1_spec:1.0.1" level="project" />
     <orderEntry type="module" module-name="activemq-web" />
-    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.58" level="project" />
     <orderEntry type="module" module-name="activemq-pool" />
     <orderEntry type="module" module-name="activemq-jms-pool" />
     <orderEntry type="library" name="Maven: rome:rome:1.0" level="project" />
@@ -133,5 +132,6 @@
     <orderEntry type="library" name="Maven: org.ow2.asm:asm:5.0.4" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.osgi:org.osgi.core:4.3.1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Maven: org.osgi:org.osgi.compendium:4.3.1" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.58" level="project" />
   </component>
 </module>

@@ -1,0 +1,17 @@
+2019-07-27 13:42:53,764 [ActiveMQ Task-1] - ERROR FailoverTransport              - Failed to connect to [ssl://localhost:0] after: 1 attempt(s)
+2019-07-27 13:42:53,794 [ActiveMQ Task-1] - ERROR FailoverTransport              - Failed to connect to [ssl://localhost:0] after: 1 attempt(s)
+2019-07-27 13:42:53,804 [ActiveMQ Task-1] - ERROR FailoverTransport              - Failed to connect to [ssl://localhost:0] after: 1 attempt(s)
+2019-07-27 13:42:54,788 [ActiveMQ Task-1] - ERROR FailoverTransport              - Failed to connect to [ssl://localhost:0] after: 1 attempt(s)
+2019-07-27 13:42:54,818 [ActiveMQ Task-1] - ERROR FailoverTransport              - Failed to connect to [ssl://localhost:0] after: 1 attempt(s)
+2019-07-27 13:42:54,848 [ActiveMQ Task-1] - ERROR FailoverTransport              - Failed to connect to [ssl://localhost:0] after: 1 attempt(s)
+2019-07-27 13:42:59,250 [main           ] - INFO  TaskRunnerTest                 - Iterations: 24067
+2019-07-27 13:42:59,250 [main           ] - INFO  TaskRunnerTest                 - counter: 100000
+2019-07-27 13:42:59,250 [main           ] - INFO  TaskRunnerTest                 - Dequeues/s: 1666666.6666666667
+2019-07-27 13:42:59,250 [main           ] - INFO  TaskRunnerTest                 - duration: 0.06
+2019-07-27 13:42:59,330 [main           ] - INFO  TaskRunnerTest                 - Iterations: 1308
+2019-07-27 13:42:59,330 [main           ] - INFO  TaskRunnerTest                 - counter: 100000
+2019-07-27 13:42:59,330 [main           ] - INFO  TaskRunnerTest                 - Dequeues/s: 1428571.4285714286
+2019-07-27 13:42:59,330 [main           ] - INFO  TaskRunnerTest                 - duration: 0.07
+2019-07-27 13:47:42,122 [main           ] - INFO  IdGenerator                    - Sanitized hostname from: other?host.lan to: otherhost.lan
+2019-07-27 13:47:42,849 [main           ] - INFO  LRUCacheTest                   - count: 0, max=0
+2019-07-27 13:47:42,859 [main           ] - INFO  LRUCacheTest                   - count: 9761, new max=10

@@ -1,0 +1,43 @@
+2019-07-27 13:50:13,383 [main           ] - INFO  BrokerService                  - Using Persistence Adapter: KahaDBPersistenceAdapter[F:\work\private\activemq-parent-5.15.9\activemq-kahadb-store\target\activemq-data\localhost\KahaDB]
+2019-07-27 13:50:13,408 [JMX connector  ] - INFO  ManagementContext              - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2019-07-27 13:50:13,769 [main           ] - INFO  PListStoreImpl                 - PListStore:[F:\work\private\activemq-parent-5.15.9\activemq-kahadb-store\target\activemq-data\localhost\tmp_storage] started
+2019-07-27 13:50:13,919 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50076-1564206613779-0:1) is starting
+2019-07-27 13:50:13,929 [main           ] - INFO  TransportServerThreadSupport   - Listening for connections at: tcp://transact.netsarang.com:50071
+2019-07-27 13:50:13,929 [main           ] - INFO  TransportConnector             - Connector tcp://transact.netsarang.com:50071 started
+2019-07-27 13:50:13,929 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50076-1564206613779-0:1) started
+2019-07-27 13:50:13,929 [main           ] - INFO  BrokerService                  - For help or more information please see: http://activemq.apache.org
+2019-07-27 13:50:13,959 [main           ] - INFO  CorruptionEofIndexRecoveryTest - Starting broker..
+2019-07-27 13:50:15,856 [main           ] - INFO  CorruptionEofIndexRecoveryTest - corrupting checksum and size (to push it past eof) of batch record at:3-11965
+2019-07-27 13:50:15,876 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50076-1564206613779-0:1) is shutting down
+2019-07-27 13:50:15,876 [main           ] - INFO  TransportConnector             - Connector tcp://transact.netsarang.com:50071 stopped
+2019-07-27 13:50:15,886 [main           ] - INFO  PListStoreImpl                 - PListStore:[F:\work\private\activemq-parent-5.15.9\activemq-kahadb-store\target\activemq-data\localhost\tmp_storage] stopped
+2019-07-27 13:50:15,886 [main           ] - INFO  KahaDBStore                    - Stopping async queue tasks
+2019-07-27 13:50:15,886 [main           ] - INFO  KahaDBStore                    - Stopping async topic tasks
+2019-07-27 13:50:15,886 [main           ] - INFO  KahaDBStore                    - Stopped KahaDB
+2019-07-27 13:50:16,067 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50076-1564206613779-0:1) uptime 2.835 seconds
+2019-07-27 13:50:16,067 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50076-1564206613779-0:1) is shutdown
+2019-07-27 13:50:16,077 [main           ] - INFO  BrokerService                  - Using Persistence Adapter: KahaDBPersistenceAdapter[F:\work\private\activemq-parent-5.15.9\activemq-kahadb-store\target\activemq-data\localhost\KahaDB]
+2019-07-27 13:50:16,077 [JMX connector  ] - INFO  ManagementContext              - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2019-07-27 13:50:16,127 [main           ] - WARN  Journal                        - Corrupt journal records found in 'target\activemq-data\localhost\KahaDB\db-4.log' between offsets: 11965..14357
+2019-07-27 13:50:16,217 [main           ] - INFO  MessageDatabase                - KahaDB is version 6
+2019-07-27 13:50:16,227 [main           ] - INFO  MessageDatabase                - [0:Test] dropped: ID:PC201812101620-50076-1564206613779-4:1:1:1:30 at corrupt location: 4:11993
+2019-07-27 13:50:16,227 [main           ] - INFO  MessageDatabase                - Detected missing/corrupt journal files.  Dropped 1 messages from the index in 0.01 seconds.
+2019-07-27 13:50:16,227 [main           ] - INFO  PListStoreImpl                 - PListStore:[F:\work\private\activemq-parent-5.15.9\activemq-kahadb-store\target\activemq-data\localhost\tmp_storage] started
+2019-07-27 13:50:16,227 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50076-1564206613779-0:2) is starting
+2019-07-27 13:50:16,237 [main           ] - INFO  TransportServerThreadSupport   - Listening for connections at: tcp://transact.netsarang.com:50079
+2019-07-27 13:50:16,247 [main           ] - INFO  TransportConnector             - Connector tcp://transact.netsarang.com:50079 started
+2019-07-27 13:50:16,247 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50076-1564206613779-0:2) started
+2019-07-27 13:50:16,247 [main           ] - INFO  BrokerService                  - For help or more information please see: http://activemq.apache.org
+2019-07-27 13:50:16,257 [main           ] - INFO  CorruptionEofIndexRecoveryTest - Starting broker..
+2019-07-27 13:50:16,257 [main           ] - INFO  TransportConnector             - Connector vm://localhost started
+2019-07-27 13:50:16,428 [main           ] - INFO  TransportConnector             - Connector vm://localhost stopped
+2019-07-27 13:50:16,428 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50076-1564206613779-0:2) is shutting down
+2019-07-27 13:50:16,428 [main           ] - INFO  TransportConnector             - Connector tcp://transact.netsarang.com:50079 stopped
+2019-07-27 13:50:16,428 [main           ] - INFO  PListStoreImpl                 - PListStore:[F:\work\private\activemq-parent-5.15.9\activemq-kahadb-store\target\activemq-data\localhost\tmp_storage] stopped
+2019-07-27 13:50:16,428 [main           ] - INFO  KahaDBStore                    - Stopping async queue tasks
+2019-07-27 13:50:16,428 [main           ] - INFO  KahaDBStore                    - Stopping async topic tasks
+2019-07-27 13:50:16,428 [main           ] - INFO  KahaDBStore                    - Stopped KahaDB
+2019-07-27 13:50:16,578 [main           ] - WARN  Journal                        - Failed to discard data file : target\activemq-data\localhost\KahaDB\db-4.log
+2019-07-27 13:50:16,598 [main           ] - WARN  Journal                        - Failed to discard data file : target\activemq-data\localhost\KahaDB\db-8.log
+2019-07-27 13:50:16,648 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50076-1564206613779-0:2) uptime 0.581 seconds
+2019-07-27 13:50:16,648 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50076-1564206613779-0:2) is shutdown

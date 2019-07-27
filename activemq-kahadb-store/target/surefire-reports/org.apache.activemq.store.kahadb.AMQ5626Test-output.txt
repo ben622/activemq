@@ -1,0 +1,46 @@
+2019-07-27 13:50:00,837 [main           ] - INFO  BrokerService                  - Using Persistence Adapter: KahaDBPersistenceAdapter[F:\work\private\activemq-parent-5.15.9\activemq-kahadb-store\target\activemq-data\localhost\KahaDB]
+2019-07-27 13:50:01,710 [main           ] - INFO  MessageDatabase                - Persistence store purged.
+2019-07-27 13:50:02,422 [main           ] - INFO  PListStoreImpl                 - PListStore:[F:\work\private\activemq-parent-5.15.9\activemq-kahadb-store\target\activemq-data\localhost\tmp_storage] started
+2019-07-27 13:50:02,542 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50057-1564206602432-0:1) is starting
+2019-07-27 13:50:02,562 [main           ] - INFO  TransportServerThreadSupport   - Listening for connections at: tcp://PC201812101620:50058
+2019-07-27 13:50:02,562 [main           ] - INFO  TransportConnector             - Connector openwire started
+2019-07-27 13:50:02,562 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50057-1564206602432-0:1) started
+2019-07-27 13:50:02,562 [main           ] - INFO  BrokerService                  - For help or more information please see: http://activemq.apache.org
+2019-07-27 13:50:02,832 [me-limited test] - INFO  AMQ5626Test                    - >>>SHUTTING BROKER DOWN
+2019-07-27 13:50:02,832 [me-limited test] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50057-1564206602432-0:1) is shutting down
+2019-07-27 13:50:02,832 [me-limited test] - INFO  TransportConnector             - Connector openwire stopped
+2019-07-27 13:50:02,842 [me-limited test] - INFO  PListStoreImpl                 - PListStore:[F:\work\private\activemq-parent-5.15.9\activemq-kahadb-store\target\activemq-data\localhost\tmp_storage] stopped
+2019-07-27 13:50:02,842 [me-limited test] - INFO  KahaDBStore                    - Stopping async queue tasks
+2019-07-27 13:50:02,842 [me-limited test] - INFO  KahaDBStore                    - Stopping async topic tasks
+2019-07-27 13:50:02,842 [me-limited test] - INFO  KahaDBStore                    - Stopped KahaDB
+2019-07-27 13:50:02,993 [me-limited test] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50057-1564206602432-0:1) uptime 2.240 seconds
+2019-07-27 13:50:02,993 [me-limited test] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50057-1564206602432-0:1) is shutdown
+2019-07-27 13:50:02,993 [me-limited test] - INFO  BrokerService                  - Using Persistence Adapter: KahaDBPersistenceAdapter[F:\work\private\activemq-parent-5.15.9\activemq-kahadb-store\target\activemq-data\localhost\KahaDB]
+2019-07-27 13:50:03,063 [me-limited test] - INFO  MessageDatabase                - KahaDB is version 6
+2019-07-27 13:50:03,073 [me-limited test] - INFO  PListStoreImpl                 - PListStore:[F:\work\private\activemq-parent-5.15.9\activemq-kahadb-store\target\activemq-data\localhost\tmp_storage] started
+2019-07-27 13:50:03,073 [me-limited test] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50057-1564206602432-0:2) is starting
+2019-07-27 13:50:03,073 [me-limited test] - INFO  TransportServerThreadSupport   - Listening for connections at: tcp://PC201812101620:50060
+2019-07-27 13:50:03,073 [me-limited test] - INFO  TransportConnector             - Connector openwire started
+2019-07-27 13:50:03,073 [me-limited test] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50057-1564206602432-0:2) started
+2019-07-27 13:50:03,073 [me-limited test] - INFO  BrokerService                  - For help or more information please see: http://activemq.apache.org
+2019-07-27 13:50:03,093 [me-limited test] - INFO  AMQ5626Test                    - >>>BROKER RESTARTED..
+2019-07-27 13:50:03,123 [me-limited test] - INFO  AMQ5626Test                    - ObjectName org.apache.activemq:type=Broker,brokerName=localhost,destinationType=Queue,destinationName=TesQ
+2019-07-27 13:50:03,123 [me-limited test] - INFO  AMQ5626Test                    - QueueView name : TesQ
+2019-07-27 13:50:03,123 [me-limited test] - INFO  AMQ5626Test                    - QueueView cursorSize : 5
+2019-07-27 13:50:03,123 [me-limited test] - INFO  AMQ5626Test                    - QueueView queueSize : 5
+2019-07-27 13:50:03,123 [me-limited test] - INFO  AMQ5626Test                    - QueueView enqueue count : 1
+2019-07-27 13:50:03,123 [me-limited test] - INFO  AMQ5626Test                    - QueueView dequeue count : 0
+2019-07-27 13:50:03,123 [me-limited test] - INFO  AMQ5626Test                    - QueueView inflight count : 0
+2019-07-27 13:50:03,143 [me-limited test] - INFO  AMQ5626Test                    - received: ID:PC201812101620-50057-1564206602432-4:1:1:1:1, priority:9
+2019-07-27 13:50:03,143 [me-limited test] - INFO  AMQ5626Test                    - received: ID:PC201812101620-50057-1564206602432-4:1:1:1:2, priority:9
+2019-07-27 13:50:03,143 [me-limited test] - INFO  AMQ5626Test                    - received: ID:PC201812101620-50057-1564206602432-4:1:1:1:3, priority:4
+2019-07-27 13:50:03,143 [me-limited test] - INFO  AMQ5626Test                    - received: ID:PC201812101620-50057-1564206602432-4:1:1:1:4, priority:4
+2019-07-27 13:50:03,143 [me-limited test] - INFO  AMQ5626Test                    - received: ID:PC201812101620-50057-1564206602432-7:1:1:1:1, priority:4
+2019-07-27 13:50:03,143 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50057-1564206602432-0:2) is shutting down
+2019-07-27 13:50:03,143 [main           ] - INFO  TransportConnector             - Connector openwire stopped
+2019-07-27 13:50:03,143 [main           ] - INFO  PListStoreImpl                 - PListStore:[F:\work\private\activemq-parent-5.15.9\activemq-kahadb-store\target\activemq-data\localhost\tmp_storage] stopped
+2019-07-27 13:50:03,143 [main           ] - INFO  KahaDBStore                    - Stopping async queue tasks
+2019-07-27 13:50:03,143 [main           ] - INFO  KahaDBStore                    - Stopping async topic tasks
+2019-07-27 13:50:03,143 [main           ] - INFO  KahaDBStore                    - Stopped KahaDB
+2019-07-27 13:50:03,283 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50057-1564206602432-0:2) uptime 0.290 seconds
+2019-07-27 13:50:03,283 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50057-1564206602432-0:2) is shutdown

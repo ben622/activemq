@@ -1,0 +1,17 @@
+org\apache\activemq\jaas\PropertiesLoginModuleRaceConditionTest$LoginTester.class
+org\apache\activemq\jaas\GroupPrincipalTest.class
+org\apache\activemq\jaas\GuestLoginModuleTest$1.class
+org\apache\activemq\jaas\GuestLoginModuleTest.class
+org\apache\activemq\jaas\LDAPLoginModuleTest$2.class
+org\apache\activemq\jaas\LDAPLoginModuleTest.class
+org\apache\activemq\jaas\LDAPModuleRoleExpansionTest$1.class
+org\apache\activemq\jaas\PropertiesLoginModuleTest$UserPassHandler.class
+org\apache\activemq\jaas\PropertiesLoginModuleTest.class
+org\apache\activemq\jaas\UserPrincipalTest.class
+org\apache\activemq\jaas\LDAPModuleRoleExpansionTest.class
+org\apache\activemq\jaas\GuestLoginModuleTest$2.class
+org\apache\activemq\jaas\LDAPLoginModuleTest$1.class
+org\apache\activemq\jaas\CertificateLoginModuleTest.class
+org\apache\activemq\jaas\LDAPLoginModuleTest$3.class
+org\apache\activemq\jaas\StubCertificateLoginModule.class
+org\apache\activemq\jaas\PropertiesLoginModuleRaceConditionTest.class

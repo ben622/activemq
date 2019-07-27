@@ -1,0 +1,24 @@
+2019-07-27 13:49:26,649 [main           ] - WARN  BrokerService                  - Memory Usage for the Broker (1024mb) is more than the maximum available for the JVM: 455 mb - resetting to 70% of maximum available: 318 mb
+2019-07-27 13:49:26,820 [main           ] - INFO  BrokerService                  - Using Persistence Adapter: MemoryPersistenceAdapter
+2019-07-27 13:49:26,830 [JMX connector  ] - INFO  ManagementContext              - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2019-07-27 13:49:27,000 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50024-1564206566840-0:1) is starting
+2019-07-27 13:49:27,020 [main           ] - INFO  TransportServerThreadSupport   - Listening for connections at: tcp://PC201812101620:50025
+2019-07-27 13:49:27,020 [main           ] - INFO  TransportConnector             - Connector tcp started
+2019-07-27 13:49:27,020 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50024-1564206566840-0:1) started
+2019-07-27 13:49:27,020 [main           ] - INFO  BrokerService                  - For help or more information please see: http://activemq.apache.org
+2019-07-27 13:49:27,110 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50024-1564206566840-0:1) is shutting down
+2019-07-27 13:49:27,120 [main           ] - INFO  TransportConnector             - Connector tcp stopped
+2019-07-27 13:49:27,120 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50024-1564206566840-0:1) uptime 0.481 seconds
+2019-07-27 13:49:27,120 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50024-1564206566840-0:1) is shutdown
+2019-07-27 13:49:27,130 [main           ] - WARN  BrokerService                  - Memory Usage for the Broker (1024mb) is more than the maximum available for the JVM: 455 mb - resetting to 70% of maximum available: 318 mb
+2019-07-27 13:49:27,130 [main           ] - INFO  BrokerService                  - Using Persistence Adapter: MemoryPersistenceAdapter
+2019-07-27 13:49:27,130 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50024-1564206566840-0:2) is starting
+2019-07-27 13:49:27,130 [JMX connector  ] - INFO  ManagementContext              - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2019-07-27 13:49:27,130 [main           ] - INFO  TransportServerThreadSupport   - Listening for connections at: tcp://PC201812101620:50027
+2019-07-27 13:49:27,130 [main           ] - INFO  TransportConnector             - Connector tcp started
+2019-07-27 13:49:27,130 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50024-1564206566840-0:2) started
+2019-07-27 13:49:27,130 [main           ] - INFO  BrokerService                  - For help or more information please see: http://activemq.apache.org
+2019-07-27 13:49:27,140 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50024-1564206566840-0:2) is shutting down
+2019-07-27 13:49:27,140 [main           ] - INFO  TransportConnector             - Connector tcp stopped
+2019-07-27 13:49:27,150 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50024-1564206566840-0:2) uptime 0.020 seconds
+2019-07-27 13:49:27,150 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50024-1564206566840-0:2) is shutdown

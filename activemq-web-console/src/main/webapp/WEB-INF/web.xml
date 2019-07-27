@@ -49,21 +49,6 @@
     <servlet-name>QueueBrowseServlet</servlet-name>
     <url-pattern>/queueBrowse/*</url-pattern>
   </servlet-mapping>
-  <!--api-->
-  <!--<servlet>
-    <servlet-name>queueBrowseQueryServlet</servlet-name>
-    <servlet-class>org.apache.activemq.web.expand.QueueBrowseQueryServlet</servlet-class>
-  </servlet>
-  <servlet-mapping>
-    <servlet-name>queueBrowseQueryServlet</servlet-name>
-    <url-pattern>/*</url-pattern>
-  </servlet-mapping>
-  <listener>
-    <listener-class>
-      org.springframework.web.context.request.RequestContextListener
-    </listener-class>
-  </listener>-->
-
   <!-- track the session usage for web JMS clients -->
   <filter>
     <filter-name>session</filter-name>
@@ -109,12 +94,16 @@
   <servlet>
     <servlet-name>dispatcher</servlet-name>
     <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+    <init-param>
+      <param-name>contextConfigLocation</param-name>  <!--指定SpringMVC配置文件的路径-->
+      <param-value>/WEB-INF/application-context.xml</param-value>
+    </init-param>
     <load-on-startup>2</load-on-startup>
   </servlet>
 
   <servlet-mapping>
     <servlet-name>dispatcher</servlet-name>
-    <url-pattern>*.action</url-pattern>
+    <url-pattern>/</url-pattern>
   </servlet-mapping>
 
   <welcome-file-list>

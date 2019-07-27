@@ -1,0 +1,28 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.activemq.store.kahadb.JournalArchiveTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 1, Skipped: 0, Time elapsed: 6.225 sec <<< FAILURE! - in org.apache.activemq.store.kahadb.JournalArchiveTest
+testRecoveryOnArchiveFailure(org.apache.activemq.store.kahadb.JournalArchiveTest)  Time elapsed: 6.095 sec  <<< FAILURE!
+java.lang.AssertionError: Failed to restart after failure to archive
+	at org.junit.Assert.fail(Assert.java:88)
+	at org.apache.activemq.store.kahadb.JournalArchiveTest.testRecoveryOnArchiveFailure(JournalArchiveTest.java:168)
+
+testRecoveryOnArchiveFailure(org.apache.activemq.store.kahadb.JournalArchiveTest)  Time elapsed: 6.105 sec  <<< ERROR!
+java.io.IOException: Failed to move target\activemq-data\localhost\KahaDB\db-7.log to F:\work\private\activemq-parent-5.15.9\activemq-kahadb-store\target\activemq-data\localhost\KahaDB\data-archive - target\activemq-data\localhost\KahaDB\db-7.log -> F:\work\private\activemq-parent-5.15.9\activemq-kahadb-store\target\activemq-data\localhost\KahaDB\data-archive\db-7.log: 另一个程序正在使用此文件，进程无法访问。
+
+	at org.apache.activemq.util.IOHelper.moveFile(IOHelper.java:200)
+	at org.apache.activemq.store.kahadb.disk.journal.DataFile.move(DataFile.java:107)
+	at org.apache.activemq.store.kahadb.disk.journal.Journal.forceRemoveDataFile(Journal.java:830)
+	at org.apache.activemq.store.kahadb.disk.journal.Journal.removeDataFiles(Journal.java:809)
+	at org.apache.activemq.store.kahadb.MessageDatabase.checkpointUpdate(MessageDatabase.java:1751)
+	at org.apache.activemq.store.kahadb.MessageDatabase.close(MessageDatabase.java:514)
+	at org.apache.activemq.store.kahadb.MessageDatabase.unload(MessageDatabase.java:553)
+	at org.apache.activemq.store.kahadb.MessageDatabase.doStop(MessageDatabase.java:311)
+	at org.apache.activemq.store.kahadb.KahaDBStore.doStop(KahaDBStore.java:309)
+	at org.apache.activemq.util.ServiceSupport.stop(ServiceSupport.java:71)
+	at org.apache.activemq.store.kahadb.KahaDBPersistenceAdapter.doStop(KahaDBPersistenceAdapter.java:262)
+	at org.apache.activemq.util.ServiceSupport.stop(ServiceSupport.java:71)
+	at org.apache.activemq.util.ServiceStopper.stop(ServiceStopper.java:41)
+	at org.apache.activemq.broker.BrokerService.stop(BrokerService.java:869)
+	at org.apache.activemq.store.kahadb.JournalArchiveTest.tearDown(JournalArchiveTest.java:112)
+

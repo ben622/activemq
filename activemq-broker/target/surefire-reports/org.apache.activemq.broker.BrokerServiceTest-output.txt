@@ -1,0 +1,4 @@
+2019-07-27 13:49:24,981 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, null) is shutting down
+2019-07-27 13:49:24,991 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, null) is shutdown
+2019-07-27 13:49:24,991 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, null) is shutting down
+2019-07-27 13:49:24,991 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, null) is shutdown

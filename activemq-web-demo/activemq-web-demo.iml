@@ -37,7 +37,6 @@
     <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-j2ee-management_1.1_spec:1.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-jacc_1.1_spec:1.0.1" level="project" />
     <orderEntry type="module" module-name="activemq-web" />
-    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.58" level="project" />
     <orderEntry type="module" module-name="activemq-all" />
     <orderEntry type="module" module-name="activemq-camel" />
     <orderEntry type="library" name="Maven: org.apache.camel:camel-jms:2.19.5" level="project" />
@@ -80,6 +79,7 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-core:4.3.18.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:4.3.18.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:4.3.18.RELEASE" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.58" level="project" />
     <orderEntry type="module" module-name="activemq-unit-tests" scope="TEST" production-on-test="" />
     <orderEntry type="module" module-name="activemq-spring" />
     <orderEntry type="module" module-name="activemq-broker" />

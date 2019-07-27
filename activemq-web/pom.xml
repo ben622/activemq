@@ -44,11 +44,7 @@
   </properties>
 
   <dependencies>
-    <dependency>
-      <groupId>com.alibaba</groupId>
-      <artifactId>fastjson</artifactId>
-      <version>1.2.58</version>
-    </dependency>
+
     <!-- activemq -->
 
     <dependency>
@@ -141,6 +137,12 @@
       <groupId>org.mockito</groupId>
       <artifactId>mockito-core</artifactId>
       <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.alibaba</groupId>
+      <artifactId>fastjson</artifactId>
+      <version>1.2.58</version>
+      <scope>compile</scope>
     </dependency>
   </dependencies>
   <profiles>

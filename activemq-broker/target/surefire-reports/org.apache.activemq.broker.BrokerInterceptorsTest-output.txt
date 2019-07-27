@@ -1,0 +1,8 @@
+2019-07-27 13:49:24,351 [main           ] - WARN  BrokerService                  - Memory Usage for the Broker (1024mb) is more than the maximum available for the JVM: 455 mb - resetting to 70% of maximum available: 318 mb
+2019-07-27 13:49:24,351 [main           ] - INFO  BrokerService                  - Using Persistence Adapter: MemoryPersistenceAdapter
+2019-07-27 13:49:24,551 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50006-1564206564371-0:1) is starting
+2019-07-27 13:49:24,561 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50006-1564206564371-0:1) started
+2019-07-27 13:49:24,561 [main           ] - INFO  BrokerService                  - For help or more information please see: http://activemq.apache.org
+2019-07-27 13:49:24,581 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50006-1564206564371-0:1) is shutting down
+2019-07-27 13:49:24,591 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50006-1564206564371-0:1) uptime 0.250 seconds
+2019-07-27 13:49:24,591 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50006-1564206564371-0:1) is shutdown

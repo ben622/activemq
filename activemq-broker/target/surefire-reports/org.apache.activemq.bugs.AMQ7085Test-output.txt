@@ -1,0 +1,24 @@
+2019-07-27 13:49:53,303 [main           ] - WARN  BrokerService                  - Memory Usage for the Broker (1024mb) is more than the maximum available for the JVM: 455 mb - resetting to 70% of maximum available: 318 mb
+2019-07-27 13:49:53,483 [main           ] - INFO  BrokerService                  - Using Persistence Adapter: MemoryPersistenceAdapter
+2019-07-27 13:49:53,503 [JMX connector  ] - INFO  ManagementContext              - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2019-07-27 13:49:53,654 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50050-1564206593503-0:1) is starting
+2019-07-27 13:49:53,664 [main           ] - INFO  TransportServerThreadSupport   - Listening for connections at: tcp://transact.netsarang.com:50045
+2019-07-27 13:49:53,664 [main           ] - INFO  TransportConnector             - Connector tcp://transact.netsarang.com:50045 started
+2019-07-27 13:49:53,664 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50050-1564206593503-0:1) started
+2019-07-27 13:49:53,664 [main           ] - INFO  BrokerService                  - For help or more information please see: http://activemq.apache.org
+2019-07-27 13:49:53,804 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50050-1564206593503-0:1) is shutting down
+2019-07-27 13:49:53,804 [main           ] - INFO  TransportConnector             - Connector tcp://transact.netsarang.com:50045 stopped
+2019-07-27 13:49:53,814 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50050-1564206593503-0:1) uptime 0.511 seconds
+2019-07-27 13:49:53,814 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50050-1564206593503-0:1) is shutdown
+2019-07-27 13:49:53,814 [main           ] - WARN  BrokerService                  - Memory Usage for the Broker (1024mb) is more than the maximum available for the JVM: 455 mb - resetting to 70% of maximum available: 318 mb
+2019-07-27 13:49:53,814 [main           ] - INFO  BrokerService                  - Using Persistence Adapter: MemoryPersistenceAdapter
+2019-07-27 13:49:53,814 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50050-1564206593503-0:2) is starting
+2019-07-27 13:49:53,824 [JMX connector  ] - INFO  ManagementContext              - JMX consoles can connect to service:jmx:rmi:///jndi/rmi://localhost:1099/jmxrmi
+2019-07-27 13:49:53,824 [main           ] - INFO  TransportServerThreadSupport   - Listening for connections at: tcp://transact.netsarang.com:50052
+2019-07-27 13:49:53,824 [main           ] - INFO  TransportConnector             - Connector tcp://transact.netsarang.com:50052 started
+2019-07-27 13:49:53,824 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50050-1564206593503-0:2) started
+2019-07-27 13:49:53,824 [main           ] - INFO  BrokerService                  - For help or more information please see: http://activemq.apache.org
+2019-07-27 13:49:53,844 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50050-1564206593503-0:2) is shutting down
+2019-07-27 13:49:53,844 [main           ] - INFO  TransportConnector             - Connector tcp://transact.netsarang.com:50052 stopped
+2019-07-27 13:49:53,845 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50050-1564206593503-0:2) uptime 0.031 seconds
+2019-07-27 13:49:53,845 [main           ] - INFO  BrokerService                  - Apache ActiveMQ 5.15.9 (localhost, ID:PC201812101620-50050-1564206593503-0:2) is shutdown

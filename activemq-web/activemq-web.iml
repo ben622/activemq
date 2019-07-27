@@ -16,7 +16,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.58" level="project" />
     <orderEntry type="module" module-name="activemq-all" />
     <orderEntry type="module" module-name="activemq-camel" />
     <orderEntry type="library" name="Maven: org.apache.camel:camel-jms:2.19.5" level="project" />

@@ -1,0 +1,8 @@
+2019-07-27 13:42:59,250 [main           ] - INFO  TaskRunnerTest                 - Iterations: 24067
+2019-07-27 13:42:59,250 [main           ] - INFO  TaskRunnerTest                 - counter: 100000
+2019-07-27 13:42:59,250 [main           ] - INFO  TaskRunnerTest                 - Dequeues/s: 1666666.6666666667
+2019-07-27 13:42:59,250 [main           ] - INFO  TaskRunnerTest                 - duration: 0.06
+2019-07-27 13:42:59,330 [main           ] - INFO  TaskRunnerTest                 - Iterations: 1308
+2019-07-27 13:42:59,330 [main           ] - INFO  TaskRunnerTest                 - counter: 100000
+2019-07-27 13:42:59,330 [main           ] - INFO  TaskRunnerTest                 - Dequeues/s: 1428571.4285714286
+2019-07-27 13:42:59,330 [main           ] - INFO  TaskRunnerTest                 - duration: 0.07

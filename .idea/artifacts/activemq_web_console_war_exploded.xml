@@ -21,7 +21,6 @@
           <element id="archive" name="activemq-web-5.15.9.jar">
             <element id="module-output" name="activemq-web" />
           </element>
-          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.58" />
           <element id="archive" name="activemq-pool-5.15.9.jar">
             <element id="module-output" name="activemq-pool" />
           </element>
@@ -85,6 +84,7 @@
           <element id="library" level="project" name="Maven: com.google.guava:guava:18.0" />
           <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-annotation_1.0_spec:1.1.1" />
           <element id="library" level="project" name="Maven: org.ow2.asm:asm:5.0.4" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.58" />
         </element>
       </element>
       <element id="directory" name="META-INF">

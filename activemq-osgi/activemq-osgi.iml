@@ -119,7 +119,6 @@
     <orderEntry type="module" module-name="activemq-ra" />
     <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-j2ee-connector_1.5_spec:2.0.0" level="project" />
     <orderEntry type="module" module-name="activemq-web" />
-    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.58" level="project" />
     <orderEntry type="module" module-name="activemq-all" />
     <orderEntry type="module" module-name="activemq-camel" />
     <orderEntry type="library" name="Maven: org.apache.camel:camel-jms:2.19.5" level="project" />
@@ -146,6 +145,7 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:4.3.18.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:4.3.18.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: xpp3:xpp3:1.1.4c" level="project" />
+    <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.58" level="project" />
     <orderEntry type="module" module-name="activemq-spring" />
     <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-jta_1.0.1B_spec:1.0.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.camel:camel-blueprint:2.19.5" level="project" />
