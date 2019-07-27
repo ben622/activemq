@@ -1,2 +1,0 @@
-2019-07-27 13:47:42,849 [main           ] - INFO  LRUCacheTest                   - count: 0, max=0
-2019-07-27 13:47:42,859 [main           ] - INFO  LRUCacheTest                   - count: 9761, new max=10

@@ -1,9 +1,0 @@
-#surefire_42
-#Sat Jul 27 13:50:12 CST 2019
-java.awt.headless=true
-user.dir=F\:\\work\\private\\activemq-parent-5.15.9\\activemq-kahadb-store
-idea.version=2018.3.6
-localRepository=C\:\\Users\\Administrator\\.m2\\repository
-org.apache.activemq.kahaDB.files.skipMetadataUpdate=true
-org.apache.activemq.default.directory.prefix=target/
-basedir=F\:\\work\\private\\activemq-parent-5.15.9\\activemq-kahadb-store
