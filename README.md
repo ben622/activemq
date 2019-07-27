@@ -1,3 +1,5 @@
+这是对ActiveMQ服务端的API扩展，通过API将ActiveMQ接入第三方後台管理系统以实现以MQ为模型的即时聊天以及系统消息推送等业务。
+
 Welcome to Apache ActiveMQ 
 =======================================================================
 Apache ActiveMQ is a high performance Apache 2.0 licensed
