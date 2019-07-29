@@ -80,9 +80,11 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:4.3.18.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-web:4.3.18.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.58" level="project" />
+    <orderEntry type="module" module-name="activemq-ra" />
+    <orderEntry type="module" module-name="activemq-broker" />
+    <orderEntry type="library" name="Maven: org.apache.geronimo.specs:geronimo-j2ee-connector_1.5_spec:2.0.0" level="project" />
     <orderEntry type="module" module-name="activemq-unit-tests" scope="TEST" production-on-test="" />
     <orderEntry type="module" module-name="activemq-spring" />
-    <orderEntry type="module" module-name="activemq-broker" />
     <orderEntry type="module" module-name="activemq-jdbc-store" />
     <orderEntry type="module" module-name="activemq-kahadb-store" />
     <orderEntry type="library" name="Maven: org.apache.activemq.protobuf:activemq-protobuf:1.1" level="project" />

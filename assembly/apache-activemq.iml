@@ -79,6 +79,7 @@
     <orderEntry type="library" name="Maven: rome:rome:1.0" level="project" />
     <orderEntry type="library" name="Maven: jdom:jdom:1.0" level="project" />
     <orderEntry type="library" name="Maven: com.alibaba:fastjson:1.2.58" level="project" />
+    <orderEntry type="module" module-name="activemq-ra" />
     <orderEntry type="module" module-name="activemq-jaas" />
     <orderEntry type="module" module-name="activemq-runtime-config" />
     <orderEntry type="library" name="Maven: org.springframework:spring-beans:4.3.18.RELEASE" level="project" />

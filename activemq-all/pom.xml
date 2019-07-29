@@ -135,6 +135,7 @@
                   <include>org.apache.camel:camel-spring</include>
                   <include>com.sun.xml.bind:jaxb-core</include>
                   <include>com.sun.xml.bind:jaxb-impl</include>
+                  <include>com.alibaba:fastjson</include>
                 </includes>
               </artifactSet>
 

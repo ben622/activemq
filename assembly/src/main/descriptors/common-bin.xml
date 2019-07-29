@@ -131,6 +131,7 @@
       <unpack>false</unpack>
       <scope>runtime</scope>
       <includes>
+        <include>com.alibaba:fastjson</include>
         <include>org.slf4j:slf4j-api</include>
         <include>org.slf4j:jcl-over-slf4j</include>
         <include>${pom.groupId}:activemq-client</include>
@@ -168,6 +169,7 @@
       <unpack>false</unpack>
       <scope>runtime</scope>
       <includes>
+        <include>com.alibaba:fastjson</include>
         <include>${pom.groupId}:activemq-amqp</include>
         <include>${pom.groupId}:activemq-mqtt</include>
         <include>${pom.groupId}:activemq-stomp</include>
@@ -285,7 +287,7 @@
         <!-- Atom/RSS support -->
         <include>rome:rome</include>
         <include>jdom:jdom</include>
-
+        <include>com.alibaba:fastjson</include>
         <!-- REST API -->
         <include>org.jolokia:jolokia-core</include>
         <include>com.googlecode.json-simple:json-simple</include>

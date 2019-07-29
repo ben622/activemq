@@ -48,6 +48,7 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.18.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.18.RELEASE" />
           <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.58" />
+          <element id="library" level="project" name="Maven: org.apache.geronimo.specs:geronimo-j2ee-connector_1.5_spec:2.0.0" />
           <element id="library" level="project" name="Maven: org.scala-lang:scala-library:2.11.0" />
           <element id="library" level="project" name="Maven: org.fusesource.hawtbuf:hawtbuf-proto:1.11" />
           <element id="library" level="project" name="Maven: org.fusesource.hawtdispatch:hawtdispatch-scala-2.11:1.22" />
